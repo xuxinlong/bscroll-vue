@@ -1,0 +1,26 @@
+{
+  "name": "scroll-vue",
+  "version": "1.0.0",
+  "description": "基于better-scroll封装的vue滚动组件",
+  "main": "index.vue",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxinlong/scroll-vue.git"
+  },
+  "keywords": [
+    "better-scroll",
+    "scroll"
+  ],
+  "author": "xuxinlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxinlong/scroll-vue/issues"
+  },
+  "homepage": "https://github.com/xuxinlong/scroll-vue#readme",
+  "dependencies": {
+    "better-scroll": "^1.8.0"
+  }
+}
