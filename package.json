@@ -1,6 +1,6 @@
 {
   "name": "bscroll-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于better-scroll封装的vue滚动组件",
   "main": "index.vue",
   "scripts": {
